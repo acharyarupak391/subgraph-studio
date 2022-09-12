@@ -1,0 +1,14 @@
+{
+  "name": "subgraph-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "subgraph:init": "bash ./setup.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphprotocol/graph-cli": "^0.33.1"
+  }
+}
